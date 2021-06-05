@@ -5,15 +5,25 @@
 ##### Table of Contents 
 
 [Bold](#bold)
+
 [Italics](#italics)
+
 [Fixed Font](#fixed-font)
+
 [Abbreviations](#abbreviations) 
+
 [Capitalization](#capitalization)
+
 [Acronyms](#acronyms)
+
 [Commas in Lists](#commas-in-lists)
+
 [Numbers](#numbers)
+
 [Contractions](#contractions)
+
 [Apostrophes](#apostrophes)
+
 
 ##### Bold
 
