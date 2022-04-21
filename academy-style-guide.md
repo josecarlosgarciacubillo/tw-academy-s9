@@ -10,7 +10,7 @@
 
 [Fixed Font](#fixed-font)
 
-[Abbreviations](#abbreviations)
+[Abbreviations](#abbreviations) 
 
 [Capitalization](#capitalization)
 
